@@ -1,0 +1,23 @@
+{
+
+  "INR": {
+    "symbol": "\u20B9",
+    "name_plural": "Indian rupees",
+    "code": "INR",
+    "symbol_native": "\u20B9",
+    "decimal_digits": 2,
+    "name": "Indian Rupee",
+    "rounding": 0.0
+  },
+
+  "USD": {
+    "symbol": "$",
+    "name_plural": "US dollars",
+    "code": "USD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "name": "US Dollar",
+    "rounding": 0.0
+  }
+  
+}

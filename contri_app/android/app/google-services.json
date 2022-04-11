@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893552322900",
+    "project_id": "expence-tracker-t",
+    "storage_bucket": "expence-tracker-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893552322900:android:49a13322d02c0c777e40c1",
+        "android_client_info": {
+          "package_name": "dot.studios.contri_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893552322900-mnrh8mg9qkfs3uk1htg66dmkmm46q6qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZa66g1L3sCQK529uylbOL9H4B5zqBOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893552322900-mnrh8mg9qkfs3uk1htg66dmkmm46q6qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
